@@ -5,6 +5,7 @@
 
 h1,h2,h3,h4,h5,h6 {
  color: white !important;
+ text-shadow: none !important;
 }
 
 h1::before {
@@ -23,6 +24,6 @@ a {
  color: white !important;
 }
 
-body {
+a {
  text-shadow: none !important;
 }
