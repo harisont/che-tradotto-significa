@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
-Ecco un video di Sal Khan.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gM95HHI4gLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Ecco un video di Sal Khan.
+<iframe src="https://www.youtube.com/embed/gM95HHI4gLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can use the [editor on GitHub](https://github.com/harisont/che-tradotto-significa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
