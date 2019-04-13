@@ -14,3 +14,7 @@ h1::before {
 header {
  border-bottom: 2px dashed white;
 }
+
+header::h2 {
+ color: #ffd56d;
+}
